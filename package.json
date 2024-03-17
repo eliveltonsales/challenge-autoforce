@@ -2,7 +2,6 @@
   "dependencies": {
     "@faker-js/faker": "^8.4.1",
     "cypress": "^13.7.0",
-    "cypress-mochawesome-reporter": "^3.8.2",
-    "faker": "^5.5.3"
+    "cypress-mochawesome-reporter": "^3.8.2"
   }
 }
